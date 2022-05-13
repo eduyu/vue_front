@@ -2,6 +2,7 @@
   <div id="app">
     <nav-bar></nav-bar>
     <hr>
+    <h1>지금 코드 바꿉니다. 배포까지 해주세요</h1>
     <router-view></router-view>
   </div>
 </template>
